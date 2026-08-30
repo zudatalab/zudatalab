@@ -19,7 +19,6 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-### 📌 Architecting the Intelligence Behind the Future
 I’m building a strong foundation in **Machine Learning, MLOps, LLMOps and AI Infrastructure**, with a focus on understanding how scalable, reliable and production ready AI systems are built.
 
 > **Learning Approach:** <code>Learn Fundamentals</code> ➔ <code>Build Practical Systems</code> ➔ <code>Debug & Improve</code> ➔ <code>Understand Workflows</code> ➔ <code>Scale</code>
